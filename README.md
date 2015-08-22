@@ -7,6 +7,6 @@ The latest version of SNePS is used - Concurrent SNePS, or CSNePS, which is writ
 
 Using a frame-based approach, both declarative and procedural knowledge can be modelled. The procedural knowledge is used to create an adaptive tutoring agent.
 
-The initial deliverable from the project is CSNePS code that represents the GCE A-level Chemistry curriculum.
+The initial deliverable from the project is a knowledge base that represents the GCE A-level Chemistry curriculum.
 
 
