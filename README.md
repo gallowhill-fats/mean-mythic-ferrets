@@ -11,7 +11,7 @@ A curricular semantic frame network is represented by a knowledge base in the CS
 
 The application can be used as a curriculum modelling tool, an intelligent tutor or an adaptive tutoring system.
 
-The application is modelled as a cognitive agent capable of reasoning and acting through an implementation of the SNePS Modular Grounded Layered Architecture with Integrated Reasoning with Inference (MGLAIR) adjunct.
+The application is modelled as a cognitive agent capable of reasoning and acting through an implementation of the SNePS Modular Grounded Layered Architecture with Integrated Reasoning (MGLAIR) adjunct.
 
 The application is written in Clojure, the language of CSNePS.
 
