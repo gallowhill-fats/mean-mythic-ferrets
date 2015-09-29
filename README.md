@@ -1,12 +1,18 @@
 # mean-mythic-ferrets
-Intelligent curricula and adaptive tutoring
+The main software deliverable of the Mean Mythic Ferrets (MMF) project is an adaptive tutoring application that is based on the representation of an academic curriculum by a semantic frame network expressed in a knowledge representation, reasoning and acting system.
 
-This project uses the FrameNet semantic frame network and the SNePS knowledge representation, reasoning and acting software to create an intelligent curriculum, a knowledge base that represents the knowledge associated with a particular curriculum.
+The major features of the application are as follows.
 
-The latest version of SNePS is used - Concurrent SNePS, or CSNePS, which is written in the Clojure programming language.
+The design is underpinned by a novel frame-based pedagogy that models both declarative and procedural knowledge.
 
-Using a frame-based approach, both declarative and procedural knowledge can be modelled. The procedural knowledge is used to create an adaptive tutoring agent.
+The semantic frames in the underlying model are taken from the FrameNet project.
 
-The initial deliverable from the project is a knowledge base that represents the GCE A-level Chemistry curriculum.
+A curricular semantic frame network is represented by a knowledge base in the CSNePS knowledge representation, reasoning and acting system.
+
+The application can be used as a curriculum modelling tool, an intelligent tutor or an adaptive tutoring system.
+
+The application is modelled as a cognitive agent capable of reasoning and acting through an implementation of the SNePS Modular Grounded Layered Architecture with Integrated Reasoning with Inference (MGLAIR) adjunct.
+
+The application is written in Clojure, the language of CSNePS.
 
 
