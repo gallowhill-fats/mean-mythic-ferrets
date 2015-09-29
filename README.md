@@ -1,5 +1,5 @@
 # mean-mythic-ferrets
-The main software deliverable of the Mean Mythic Ferrets (MMF) project is an adaptive tutoring application that is based on the representation of an academic curriculum by a semantic frame network expressed in a knowledge representation, reasoning and acting system.
+The main software deliverable of the Mean Mythic Ferrets (MMF) project is a teaching and learning application that is based on the representation of an academic curriculum by a semantic frame network expressed in a knowledge representation, reasoning and acting system.
 
 The major features of the application are as follows.
 
